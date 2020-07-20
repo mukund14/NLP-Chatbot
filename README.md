@@ -1,1 +1,1 @@
-A NLTK based Chatbot that uses user input and gives a response based on this input
+A NLTK based Chatbot that takes user input and gives a response based on this input
